@@ -18,3 +18,14 @@ Most plans allow dependents (children) to stay on a parent's plan till about 23 
 About 8% of products do not clearly mention the maximum dependent age. Missing details can create uncertainties.
 
 
+2. Charts
+
+* Percentage of Plans Not Mentioning Dependent Age by Year
+  <img width="1738" height="782" alt="image" src="https://github.com/user-attachments/assets/2a70ae81-dcb6-4e62-9f49-1a1650a7a299" />
+  Insights- Reporting quality improved over time. Today, data is much more reliable for analysis.
+
+
+
+* Maximum Number of Dependents Allowed by State for Two Parent Family Policy
+  <img width="1655" height="797" alt="image" src="https://github.com/user-attachments/assets/2d0d80d4-a4ca-4953-84ad-a417196a6510" />
+  Insights- Reporting quality improved over time. Today, data is much more reliable for analysis.
