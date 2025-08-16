@@ -2,6 +2,27 @@
 
 This project analyses various trends in the re-insurance domain. It shows how data driven analysis can lead to better market understanding and risk assessment. I have used graphs and various KPI cards to depict important metrics and trends.
 
+Data Cleaning
+1) Made the first row as headers
+2) Converted the columns to appropriate data formats
+3) Replaced the empty values in TwoParentFamilyMaxDependentsRule with the text 'Missing'
+4) Replaced the empty values in DentalOnlyPlan with 'Not Specified'
+5) Replaced the empty values in DomesticPartnerAsSpouseIndicator with 'Not Mentioned'
+6) Replaced the empty values in SameSexPartnerAsSpouseIndicator with 'Not Mentioned'
+7) Replaced the empty values in ProductId with 'Not Mentioned'
+8) Replaced the empty values in StandardComponentId with 'Not Mentioned'
+9) Replaced the empty values in EnrolleeContractRateDeterminationRule with 'Not Mentioned'
+10) Replaced the empty values in SingleParentFamilyMaxDependentsRule with 'Not Mentioned'
+11) Replaced the empty values in DependentMaximumAgRule with 'Not Mentioned'
+12) Replaced the empty values in ChildrenOnlyContractMaxChildrenRule with 'Not Mentioned'
+13) Replaced the empty values in MinimumTobaccoFreeMonthsRule with 'Not Mentioned'
+14) Replaced the empty values in CohabitationRule with 'Not Mentioned'
+15) Replaced the empty values in AgeDeterminationRule with 'Not Mentioned'
+16) Replaced the empty values in MarketCoverage with 'Not Mentioned'
+17) Replaced the empty values in DependentMaximumAgRule with 0
+18) Replaced the empty values in DependentMaximumAgRule with 0
+19) Converted the values in DependentMaximumAgRule to type number 
+
 1. **KPI Metrics**
 <img width="1031" height="118" alt="image" src="https://github.com/user-attachments/assets/3fcdb8be-561e-4f77-97fb-e1829eacb6a6" />
 
