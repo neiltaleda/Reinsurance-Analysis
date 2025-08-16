@@ -28,4 +28,18 @@ About 8% of products do not clearly mention the maximum dependent age. Missing d
 
 * Maximum Number of Dependents Allowed by State for Two Parent Family Policy
   <img width="1655" height="797" alt="image" src="https://github.com/user-attachments/assets/2d0d80d4-a4ca-4953-84ad-a417196a6510" />
-  Insights- Reporting quality improved over time. Today, data is much more reliable for analysis.
+  Insights- Different states allow very different numbers of dependents. This shows how state rules can change the size of a family plan and the potential claims insurers may face.
+
+
+* Domestic Partner Counted as Spouse?
+  <img width="1612" height="797" alt="image" src="https://github.com/user-attachments/assets/b90d4b8a-30a8-4ccc-9ac2-58a1350a97c3" />
+  Insights- 75.21% people have their domestic partner as their spouse, 22.38% people don't have their domestic partner as their spouse, while the remaining 2.42% choose not to mention this detail. Most insurers now treat domestic partners the same as spouses
+
+* Domestic Partners With Dental-Only Plans
+    <img width="1746" height="800" alt="image" src="https://github.com/user-attachments/assets/37adac71-5f56-4be0-97f6-39acc2c49c23" />
+    Insights- Many domestic partners only have dental coverage (32.77%), which shows growth in smaller, specialized plans.
+
+* Market Coverage Distribution
+    <img width="1572" height="777" alt="image" src="https://github.com/user-attachments/assets/f34f557d-89da-46e6-8738-5bc3db737bd4" />
+    Insights- The market is split majorly between individual buyers and small groups
+  
