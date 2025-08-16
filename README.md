@@ -31,15 +31,50 @@ About 8% of products do not clearly mention the maximum dependent age. Missing d
   Insights- Different states allow very different numbers of dependents. This shows how state rules can change the size of a family plan and the potential claims insurers may face.
 
 
+
 * Domestic Partner Counted as Spouse?
   <img width="1612" height="797" alt="image" src="https://github.com/user-attachments/assets/b90d4b8a-30a8-4ccc-9ac2-58a1350a97c3" />
   Insights- 75.21% people have their domestic partner as their spouse, 22.38% people don't have their domestic partner as their spouse, while the remaining 2.42% choose not to mention this detail. Most insurers now treat domestic partners the same as spouses
+
+
 
 * Domestic Partners With Dental-Only Plans
     <img width="1746" height="800" alt="image" src="https://github.com/user-attachments/assets/37adac71-5f56-4be0-97f6-39acc2c49c23" />
     Insights- Many domestic partners only have dental coverage (32.77%), which shows growth in smaller, specialized plans.
 
+
+
 * Market Coverage Distribution
     <img width="1572" height="777" alt="image" src="https://github.com/user-attachments/assets/f34f557d-89da-46e6-8738-5bc3db737bd4" />
     Insights- The market is split majorly between individual buyers and small groups
+
+
+
+* Average Dependent Maximum Age by State
+    <img width="1276" height="720" alt="image" src="https://github.com/user-attachments/assets/134fe4ac-8a08-4f25-ab8c-115759a61481" />
+    Insights- Florida, Oregon, New Mexico, Wisconsin, and Nevada set the highest average dependent age rules. This highlights state-level age regulations, which is important for reinsurers to understand when modeling family coverage risks.
+
+
+
+* Top 5 Issuers by Number of Products
+    <img width="1292" height="721" alt="image" src="https://github.com/user-attachments/assets/5a4087fc-41b0-4d5f-91e8-d7e5c891c749" />
+    Insights- A few issuers dominate the market by offering a wide variety of products. This concentration indicates where the company might expect higher exposure or opportunities for reinsurance partnerships.
+
+
+
+* Products Allowing Same-Sex Partners
+    <img width="1282" height="732" alt="image" src="https://github.com/user-attachments/assets/8474c8cc-06b0-4e59-b707-798be8c6a3f6" />
+    Insights- 76% of products allow same-sex partner coverage, showing strong inclusion trends. However, ~21% still exclude it, reflecting ongoing regulatory or cultural differences.
+
+
+
+* State Distribution of Products (Map Chart)
+    <img width="1433" height="782" alt="image" src="https://github.com/user-attachments/assets/0b7143ea-8593-48e8-937c-543c4ca2d6ca" />
+    Insights- Texas, Wisconsin, and Ohio lead in product volumes, suggesting highly competitive state markets.
+
+
+* Number of Products by Year (2013 to 2015)
+    <img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/e447470a-c32f-464a-a785-74ac80f2babe" />
+    Strong growth: from ~950 in 2013 → 7,183 in 2014 → 12,952 in 2015. Indicates that the insurance market is increasingly rapidly.
+
   
