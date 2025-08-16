@@ -1,6 +1,6 @@
 <h1 align="center">Re Insurance Analysis</h1>
 
-This project analyses various trends in the re-insurance domain. It shows how data driven analysis can lead to better market understanding and risk assessment. I have used graphs and various KPI cards to depict important metrics and trends.
+This project uses Power BI to analyze 21,000+ U.S. health insurance product rules (2013–2015). It highlights regulatory improvements, state-level differences, issuer concentration, and inclusivity trends. These factors directly affect how reinsurance companies evaluate risk pools, price contracts, and manage portfolio exposure.
 
 Data Cleaning
 1) Made the first row as headers
