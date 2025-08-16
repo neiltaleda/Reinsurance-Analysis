@@ -15,6 +15,6 @@ There are a variety of insurance companies in the market leading to stiff compet
 Most plans allow dependents (children) to stay on a parent's plan till about 23 years of age. This matches healthcare policies in the US and how long insurers pay for family coverage.
 
 * Plans Without Mention of Age- **7.90%** :
-About 8% of products do not clearly mention the maximum dependent age.
+About 8% of products do not clearly mention the maximum dependent age. Missing details can create uncertainties.
 
 
